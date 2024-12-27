@@ -1,0 +1,49 @@
+body {
+   background: #EDEAE8;
+   margin: 0;
+}  
+a{
+     color: #EDEAE8; 
+	 text-decoration: none;
+}
+.the-whole-thing{
+	 display: block;
+}
+.header-div{
+  background-color:#6E6666;
+  padding: 20px;
+}
+p{
+     padding: 10px;
+     line-height: 2;
+	 font-weight: 1;
+}
+.name-div{
+	 display: flex;
+	 flex-direction: colomn;
+	 flex-wrap: wrap;
+	 justify-content: left;
+	 width: 400px;
+	 margin-left: 0px;
+	 margin-top: 0px;
+	 padding-left: 0px;
+	 padding-top: 0px;
+}
+.the-main-part{
+	 display: flex;
+	 flex-direction: row;
+	 flex-wrap: nowrap;
+	 padding: 50px;
+	 justify-content: space-between;
+}
+img{
+	 width: 300px; 
+	 height:400px;
+}
+.lets-see{
+	 padding: 10px;
+}
+.the-info{
+	 align-content: left;
+	 width: 900px;
+}
